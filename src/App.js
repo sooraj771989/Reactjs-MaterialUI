@@ -17,7 +17,6 @@ function Copyright() {
     </Typography>
   );
 }
-
 export default function App() {
   return (
     <Container maxWidth="sm">
@@ -26,8 +25,6 @@ export default function App() {
          React With Material UI
         </Typography>
         <ProTip />
-
-
         <TextField />
         <Copyright />
       </Box>
